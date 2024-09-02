@@ -24,7 +24,7 @@
                     <div id="navbar-collapse-with-animation" class="hs-collapse hidden overflow-hidden transition-all duration-500 basis-full grow lg:block">
                         <div class="overflow-hidden overflow-y-auto max-h-[75vh] scrollbar-y">
                             <div class="flex flex-col gap-x-0 divide-y divide-dashed divide-primary-200 lg:flex-row lg:items-center lg:justify-end lg:gap-x-5 lg:mt-0 lg:pl-3 lg:pr-5 lg:divide-y-0 lg:divide-solid overflow-hidden space-y-3 lg:space-y-0 md:space-y-0">
-                                <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-2 rounded-md text-black bg-white" style="border: 1px solid gray;"><i class="fa-solid fa-mobile text-primary-800 shadow-lg"></i> Go Mobile</a>
+                                <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-2 rounded-md text-black bg-white" style="border: 1px solid gray;"><i class="fa-solid fa-mobile-screen text-primary-800 shadow-lg"></i> Go Mobile</a>
 
                                 <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-2 rounded-md text-white border-none border-0"><i class="fa-solid fa-user-tie"></i> My Account</a>
                             </div>

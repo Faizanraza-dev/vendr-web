@@ -5,8 +5,8 @@
                 <h2 class="text-secondary-800 text-2xl lg:text-[32px] font-semibold border-b border-secondary-200 w-fit">Do you manage facilities or you are a resident?</h2>
                 <p class="text-gray-700 text-lg mt-2">You can bank on our years of online and field experience to deliver tailor made services.</p>
             </div>
-            <div class="flex flex-wrap items-center mt-10">
-                <div class="w-full lg:w-3/12 p-3">
+            <div class="flex flex-wrap items-center justify-center mt-10">
+                <div class="w-full lg:w-3/12 md:w-6/12 p-3">
                     <div class="service-card3 bg-white border border-gray-200 p-5 text-center relative" data-aos="flip-right" data-aos-duration="2000">
                         <div class="box-content">
                             <div class="service-card-icon h-[100px] w-[100px] leading-[115px] rounded-[50%] bg-primary-800 relative m-auto" style="-webkit-transition: 0.4s; transition: 0.4s">
@@ -17,7 +17,7 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:w-3/12 p-3">
+                <div class="w-full lg:w-3/12 md:w-6/12 p-3">
                     <div class="service-card3 bg-white border border-gray-200 p-5 text-center relative" data-aos="flip-right" data-aos-duration="2000">
                         <div class="box-content">
                             <div class="service-card-icon h-[100px] w-[100px] leading-[115px] rounded-[50%] bg-primary-800 relative m-auto" style="-webkit-transition: 0.4s; transition: 0.4s">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:w-3/12 p-3">
+                <div class="w-full lg:w-3/12 md:w-6/12 p-3">
                     <div class="service-card3 bg-white border border-gray-200 p-5 text-center relative" data-aos="flip-right" data-aos-duration="2000">
                         <div class="box-content">
                             <div class="service-card-icon h-[100px] w-[100px] leading-[115px] rounded-[50%] bg-primary-800 relative m-auto" style="-webkit-transition: 0.4s; transition: 0.4s">
@@ -39,7 +39,7 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:w-3/12 p-3">
+                <div class="w-full lg:w-3/12 md:w-6/12 p-3">
                     <div class="service-card3 bg-white border border-gray-200 p-5 text-center relative" data-aos="flip-right" data-aos-duration="2000">
                         <div class="box-content">
                             <div class="service-card-icon h-[100px] w-[100px] leading-[115px] rounded-[50%] bg-primary-800 relative m-auto" style="-webkit-transition: 0.4s; transition: 0.4s">

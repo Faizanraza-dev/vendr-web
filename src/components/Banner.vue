@@ -20,7 +20,7 @@
 
                                 <p class="text-sm lg:text-lg text-gray-600 tracking-wide mt-3 w-full lg:w-[80%]" data-aos="flip-left" data-aos-duration="2000">Get started with 24hrs support, no monthly fees on faciltiy management and vending platform for dual tariff electric -grid & generator, solar, water and gas meters. Start free always!</p>
                             
-                                <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-left" data-aos-duration="2000" style="border: 1px solid gray;"><i class="fa-solid fa-mobile text-primary-800 shadow-lg"></i> Go Mobile</a>
+                                <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-left" data-aos-duration="2000" style="border: 1px solid gray;"><i class="fa-solid fa-mobile-screen text-primary-800 shadow-lg"></i> Go Mobile</a>
                             </div>
                         </div>
                         <div class="w-full lg:w-4/12 md:w-4/12">

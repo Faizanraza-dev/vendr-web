@@ -6,7 +6,7 @@
                 <p class="text-gray-700 text-lg mt-2">Crafted with utmost care for the toughest of environments. Reliable to keep your loved ones and business thriving.</p>
             </div>
         </div>
-        <div class="bg-white">
+        <div class="bg-white py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
@@ -26,7 +26,7 @@
             </div>
         </div>
            
-        <div class="bg-gray-50 my-5">
+        <div class="bg-gray-50 py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
@@ -46,23 +46,27 @@
             </div>
         </div>
 
-        <div class="flex flex-wrap items-center mt-10">
-            <div class="w-full lg:6/12 md:w-6/12">
-                <div class="feature-card overflow-hidden" data-aos="flip-right" data-aos-duration="2000">
-                    <img src="../assets/access-control.png" alt="" class="mx-auto" >
-                </div>
-            </div>
+        <div class="bg-white py-10">
+            <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
+                <div class="flex flex-wrap items-center mt-10">
+                    <div class="w-full lg:6/12 md:w-6/12">
+                        <div class="feature-card overflow-hidden" data-aos="flip-right" data-aos-duration="2000">
+                            <img src="../assets/access-control.png" alt="" class="mx-auto" >
+                        </div>
+                    </div>
 
-            <div class="w-full lg:6/12 md:w-6/12">
-                <div class="w-full lg:w-[80%]">
-                    <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Access Control</h3>
-                    <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Create good feng shui in your spaces. Welcome guests and supercharges security with our automatic gate pass For Smart Vehicle Access Control.</p>
-                    <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-up" data-aos-duration="2000" style="border: 1px solid gray;">Learn More <i class="fa-solid fa-right-long text-primary-800"></i></a>
+                    <div class="w-full lg:6/12 md:w-6/12">
+                        <div class="w-full lg:w-[80%]">
+                            <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Access Control</h3>
+                            <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Create good feng shui in your spaces. Welcome guests and supercharges security with our automatic gate pass For Smart Vehicle Access Control.</p>
+                            <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-up" data-aos-duration="2000" style="border: 1px solid gray;">Learn More <i class="fa-solid fa-right-long text-primary-800"></i></a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="bg-gray-50 my-5">
+        <div class="bg-gray-50 py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">

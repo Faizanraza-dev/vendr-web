@@ -1,5 +1,5 @@
 <template>
-   <footer class="bg-secondary-800 py-14">
+   <footer class="footerbanner py-14">
   <div class="widget-area">
     <div class="mx-auto max-w-[85rem] px-5 lg:px-0">
       <div class="flex flex-wrap">
@@ -89,3 +89,11 @@
         <p class="text-secondary-800 text-lg">© Copyright Vendr Utilities by Reveassure Solutions Ltd. All Rights Reserved. </p>
     </div>
 </template>
+
+<style scoped>
+.footerbanner{
+    background-image: url("../assets/bg_03.svg");
+    background-size:cover ;
+    
+}
+</style>

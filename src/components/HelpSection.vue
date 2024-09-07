@@ -3,7 +3,7 @@
     <div class="mx-auto max-w-[85rem] px-3 lg:px-6">
         <div class="flex flex-wrap items-center justify-center">
             <div class="w-full lg:w-4/12 md:w-6/12   p-2">
-                <div class="contact-info border border-secondary-200 rounded-lg" data-aos="flip-left" data-aos-duration="2000">
+                <div class="contact-info  rounded-lg" data-aos="flip-left" data-aos-duration="2000">
                     <div class="contact-info-icon">
                         <i class="fa-solid fa-location-dot"></i>
                     </div>
@@ -15,7 +15,7 @@
             </div>
 
             <div class="w-full lg:w-4/12 md:w-6/12   p-2">
-                <div class="contact-info border border-secondary-200 rounded-lg" data-aos="flip-left" data-aos-duration="2000">
+                <div class="contact-info  rounded-lg" data-aos="flip-left" data-aos-duration="2000">
                     <div class="contact-info-icon">
                         <i class="fa-solid fa-phone-volume"></i>
                     </div>
@@ -28,7 +28,7 @@
             </div>
 
             <div class="w-full lg:w-4/12 md:w-6/12   p-2">
-                <div class="contact-info border border-secondary-200 rounded-lg !bg-white" data-aos="flip-left" data-aos-duration="2000">
+                <div class="contact-info  rounded-lg !bg-white" data-aos="flip-left" data-aos-duration="2000">
                     <div class="contact-info-icon">
                         <i class="fa-solid fa-envelope"></i>
                     </div>

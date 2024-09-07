@@ -1,16 +1,30 @@
+<!-- <script>
+import bannerGradient from '../assets/banner-gradient.png'; // Use relative path here
+
+export default {
+  data() {
+    return {
+      bannerGradient,
+    };
+  },
+};
+</script> -->
+
+
+
 <template>
     <div>
-        <section class="banner relative border-b border-primary-50 pb-10 bg-primary-100 bg-opacity-40">
+        <section class="banner-background relative border-b border-primary-50 pb-10 bg-opacity-10"   >
             <div class="hero-section style-two">
                 <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                     <div class="flex flex-wrap items-center">
                         <div class="w-full lg:w-8/12 md:w-8/12">
                             <div class="hero-content text-start mt-[50px] lg:mt-[150px]">
-                                <h1 class="text-secondary-800 text-[40px] xl:text-[90px] lg:text-[80px] md:text-[70px] m-0 leading-[2.5rem] font-bold " data-aos="zoom-in" data-aos-duration="2000">We've Made </h1>
+                                <h1 class="text-white text-[40px] xl:text-[90px] lg:text-[80px] md:text-[70px] m-0 leading-[2.5rem] font-bold " data-aos="zoom-in" data-aos-duration="2000">We've Made </h1>
 
                                 <h2 class="text-primary-800 text-lg lg:text-[35px] mt-2 lg:mt-8" data-aos="flip-right" data-aos-duration="2000">Gate Access | Collections | Meter Vending | Solar Power </h2>
                                 
-                                <p class="w-full lg:w-[81%] md:w-[81%] text-lg lg:text-2xl text-secondary-800 mt-2" data-aos="flip-left" data-aos-duration="2000">Affordable & Accessible Anytime, Anywhere.</p>
+                                <p class="w-full lg:w-[81%] md:w-[81%] text-lg lg:text-2xl text-white mt-2" data-aos="flip-left" data-aos-duration="2000">Affordable & Accessible Anytime, Anywhere.</p>
 
                                 <div class="relative w-full max-w-sm mt-3" data-aos="flip-left" data-aos-duration="2000">
                                     <input type="text" placeholder="Meter number" class="w-full pl-4 pr-[5rem] py-2 lg:py-3.5 rounded-full border border-gray-300 focus:outline-none"/>
@@ -18,7 +32,7 @@
                                     </button>
                                 </div>
 
-                                <p class="text-sm lg:text-lg text-gray-600 tracking-wide mt-3 w-full lg:w-[80%]" data-aos="flip-left" data-aos-duration="2000">Get started with 24hrs support, no monthly fees on faciltiy management and vending platform for dual tariff electric -grid & generator, solar, water and gas meters. Start free always!</p>
+                                <p class="text-sm lg:text-lg text-white tracking-wide mt-3 w-full lg:w-[80%]" data-aos="flip-left" data-aos-duration="2000">Get started with 24hrs support, no monthly fees on faciltiy management and vending platform for dual tariff electric -grid & generator, solar, water and gas meters. Start free always!</p>
                             
                                 <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-left" data-aos-duration="2000" style="border: 1px solid gray;"><i class="fa-solid fa-mobile-screen text-primary-800 shadow-lg"></i> Go Mobile</a>
                             </div>
@@ -48,3 +62,11 @@
         </section>
     </div>
 </template>
+
+<style scoped>
+.banner-background{
+    background-image: url("../assets/bg_03.svg");
+    background-size:cover ;
+    
+}
+</style>

@@ -1,13 +1,13 @@
 <template>
-    <section class="py-10">
-        <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
+    <section class="feature-banner-section  relative" >
+        <div class="mx-auto max-w-[85rem] px-6">
             <div class="mt-5">
                 <h2 class="text-secondary-800 text-2xl lg:text-[32px] font-semibold border-b border-secondary-200 w-fit">For everyday communities, shopping malls, markets, and individuals.</h2>
                 <p class="text-gray-700 text-lg mt-2">Crafted with utmost care for the toughest of environments. Reliable to keep your loved ones and business thriving.</p>
             </div>
         </div>
-        <div class="bg-white py-10">
-            <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
+        <div class=" py-10">
+            <div class="mx-auto max-w-[85rem] px-6 relative overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
                         <div class="feature-card overflow-hidden" data-aos="flip-right" data-aos-duration="2000">
@@ -15,7 +15,7 @@
                         </div>
                     </div>
 
-                    <div class="w-full lg:6/12 md:w-6/12">
+                    <div class="w-full lg:6/12 md:w-6/12 relative z-50 overflow-hidden">
                         <div class="w-full lg:w-[80%]">
                             <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Utilities</h3>
                             <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">We provide an easy-to-use vending platform and distribution network for STS meters that give you the flexibility to manage your spaces. Streamline meter readings, automate billing and get transparency into consumption.</p>
@@ -25,14 +25,16 @@
                 </div>
             </div>
         </div>
-           
-        <div class="bg-gray-50 py-10">
+    </section>
+
+    <section class="bg-secondary-100 relative overflow-hidden">
+        <div class="py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
                         <div class="w-full lg:w-[80%]">
                             <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Collections</h3>
-                            <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Our fraud proof collection and payment solution allow you to set up instant payments, while you get paid securely and promptly. Say goodbye to meeting tenants in-person and cashing paper checks.</p>
+                            <p class="text-black mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Our fraud proof collection and payment solution allow you to set up instant payments, while you get paid securely and promptly. Say goodbye to meeting tenants in-person and cashing paper checks.</p>
                             <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-up" data-aos-duration="2000" style="border: 1px solid gray;">Learn More <i class="fa-solid fa-right-long text-primary-800"></i></a>
                         </div>
                     </div>
@@ -45,9 +47,12 @@
                 </div>
             </div>
         </div>
+        <img src="../assets/pattern-curve-four.png" alt="" class="absolute top-0 start-0">
+    </section>
 
-        <div class="bg-white py-10">
-            <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
+    <section class="feature-banner-section2  relative" >
+        <div class="py-10">
+            <div class="mx-auto max-w-[85rem] px-6">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
                         <div class="feature-card overflow-hidden" data-aos="flip-right" data-aos-duration="2000">
@@ -65,14 +70,16 @@
                 </div>
             </div>
         </div>
+    </section>
 
-        <div class="bg-gray-50 py-10">
+    <section class="bg-secondary-100 relative overflow-hidden">
+        <div class=" py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
                     <div class="w-full lg:6/12 md:w-6/12">
                         <div class="w-full lg:w-[80%]">
                             <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Estate Management</h3>
-                            <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Run your Estate from any where and any device. Enjoy a suite of tools for reporting and managing concerns, & financial reporting with charts, and messaging, plus elections.</p>
+                            <p class="text-black mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">Run your Estate from any where and any device. Enjoy a suite of tools for reporting and managing concerns, & financial reporting with charts, and messaging, plus elections.</p>
                             <a href="" target="_self" rel="nofollow" class="btn btn-two px-3 py-1.5 rounded-full text-black bg-white mt-3" data-aos="flip-up" data-aos-duration="2000" style="border: 1px solid gray;">Learn More <i class="fa-solid fa-right-long text-primary-800"></i></a>
                         </div>
                     </div>
@@ -85,5 +92,19 @@
                 </div>
             </div>
         </div>
+        <img src="../assets/pattern-curve-four.png" alt="" class="absolute top-0 start-0">
     </section>
 </template>
+
+<style scoped>
+.feature-banner-section{
+    background-image: url("../assets/banner-gradient.png");
+    background-size:cover ;
+  
+}
+.feature-banner-section2{
+    background-image: url("../assets/banner-gradient.png");
+    background-size:cover ;
+   
+}
+</style>

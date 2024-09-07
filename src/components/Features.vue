@@ -15,7 +15,7 @@
                         </div>
                     </div>
 
-                    <div class="w-full lg:6/12 md:w-6/12 relative z-50 overflow-hidden">
+                    <div class="w-full lg:6/12 md:w-6/12 relative  overflow-hidden">
                         <div class="w-full lg:w-[80%]">
                             <h3 class="text-3xl font-semibold text-secondary-800" data-aos="flip-up" data-aos-duration="2000">Utilities</h3>
                             <p class="text-gray-700 mt-2 text-lg" data-aos="flip-up" data-aos-duration="2000">We provide an easy-to-use vending platform and distribution network for STS meters that give you the flexibility to manage your spaces. Streamline meter readings, automate billing and get transparency into consumption.</p>
@@ -27,7 +27,7 @@
         </div>
     </section>
 
-    <section class="bg-secondary-100 relative overflow-hidden">
+    <section class="feature-banner-section1  relative overflow-hidden">
         <div class="py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
@@ -72,7 +72,7 @@
         </div>
     </section>
 
-    <section class="bg-secondary-100 relative overflow-hidden">
+    <section class="feature-banner-section1 relative overflow-hidden">
         <div class=" py-10">
             <div class="mx-auto max-w-[85rem] px-6 !overflow-hidden">
                 <div class="flex flex-wrap items-center mt-10">
@@ -107,4 +107,10 @@
     background-size:cover ;
    
 }
+
+.feature-banner-section1{
+    background-image: url("../assets/featured-gradient.png");
+    background-size:cover ;
+}
 </style>
+
